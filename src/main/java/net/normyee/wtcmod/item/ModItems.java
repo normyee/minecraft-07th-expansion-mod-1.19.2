@@ -16,8 +16,15 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TAB_WTCMOD)));
 
     public static final RegistryObject<Item> RENA_AXE = ITEMS.register("rena_axe",
-            () -> new AxeItem(ModTiers.KAKERA, 6, 0f, new Item.Properties()
+            () -> new AxeItem(ModTiers.KAKERA, 7, 0f, new Item.Properties()
                     .tab(ModCreativeModeTab.TAB_WTCMOD)));
+
+    public static final RegistryObject<Item> SATOSHI_BAT = ITEMS.register("satoshi_bat",
+            () -> new AxeItem(ModTiers.KAKERA, 7, 0f, new Item.Properties()
+                    .tab(ModCreativeModeTab.TAB_WTCMOD)));
+
+    public static final RegistryObject<Item> CICONIA_GAUNTLET = ITEMS.register("ciconia_gauntlet",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TAB_WTCMOD)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
