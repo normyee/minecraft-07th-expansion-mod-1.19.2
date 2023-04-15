@@ -1,6 +1,6 @@
 # Minecraft 07th Expansion Mod 1.19.2
 
-Este é um mod simples de Minecraft baseado em "When They Cry" que adiciona os seguintes itens:
+Este é um mod de Minecraft, utilizando o Forge, baseado em "When They Cry" que adiciona os seguintes itens:
 
 - Machado da Rena<br>
 ![Hatchet](https://i.imgur.com/aYty1wo.png)
@@ -11,7 +11,7 @@ Este é um mod simples de Minecraft baseado em "When They Cry" que adiciona os s
 - Kakera como item<br>
 ![Kakera](https://i.imgur.com/BLpeNBt.png)
 
-O item "Manopla" do Mod tem uma funcionalidade especial, assim como no jogo de onde esse item vem, dá habilidade ao jogador de voar ao segurar o item. Enquanto aos outros items, "Kakera" é apenas um enfeite que remete ao "Mar de Kakera" na série When They Cry, machado é um item clássico da série que a personagem "Rena" utiliza, e por fim, o taco é também um item memorável da série.
+O item "Manopla" do mod tem uma funcionalidade especial, assim como no jogo de onde esse item vem, dá habilidade ao jogador de voar ao segurar o item. Enquanto aos outros items, "Kakera" é apenas um enfeite que remete ao "Mar de Kakera" na série When They Cry, machado é um item clássico da série que a personagem "Rena" utiliza, e por fim, o taco é também um item memorável da série.
 
 ## Setup
 
