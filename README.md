@@ -6,7 +6,7 @@ Este é um mod simples de Minecraft baseado em "When They Cry" que adiciona os s
 ![Hatchet](https://i.imgur.com/aYty1wo.png)
 - Taco de Baseball do Keiichi<br>
 ![Bat](https://i.imgur.com/HBizieJ.png)
-- Manopla da Miyao Mitake de Ciconia<br>
+- Manopla de Miyao Mitake de Ciconia<br>
 ![Gauntlet](https://i.imgur.com/zgJaNSg.png)
 - Kakera como item<br>
 ![Kakera](https://i.imgur.com/BLpeNBt.png)
