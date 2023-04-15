@@ -1,6 +1,6 @@
 # Minecraft 07th Expansion Mod 1.19.2
 
-Este é um mod de Minecraft, utilizando o Forge, baseado em "When They Cry" que adiciona os seguintes itens:
+Este é um mod de Minecraft, utilizando a API do Forge, baseado em "When They Cry" que adiciona os seguintes itens:
 
 - Machado da Rena<br>
 ![Hatchet](https://i.imgur.com/aYty1wo.png)
